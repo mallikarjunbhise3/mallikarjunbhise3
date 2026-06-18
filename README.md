@@ -11,7 +11,7 @@ Full-stack **Salesforce Commerce Cloud (SFCC/SFRA)** developer at **OSF Digital*
 | 🎾 **Babolat** | Sports equipment | Security, payments, search, BIS, features | Apr 2023 → present |
 | 🛒 **Gifi / Go Sport** | Retail | BO-store order mgmt, cart/checkout, marketplace | Jun 2023 → Jan 2024 |
 | 🍵 **Kusmi Tea** | Premium F&B | Klaviyo/CRM migration, Tapbuy, SEO | Jul 2025 → present |
-| 🛍️ **SMCP luxury brands** | Luxury fashion | Adyen migration, performance, feeds, compliance | Mar 2026 → present |
+| 🛍️ **CWF luxury brands** | Luxury fashion | Adyen migration, performance, feeds, compliance | Mar 2026 → present |
 | 🎮 **Micromania** | Video games | PLP redesign, bundle automation, Click & Collect | Feb 2024 → Jan 2025 |
 | 🖼️ **Shoppable Images (R&D)** | R&D | Caching configuration | Jan 2023 |
 
@@ -43,7 +43,7 @@ Premium tea brand. Tickets: `KSMIT` / `KTCXN`.
 - **SEO / Structured data:** JSON-LD Organization & product markup, hreflang/seasonal-URL config.
 - **Promotions / Cart / DataLayer:** qualifying-product promo bug, bonus-product list, add-to-cart quantity-modifier event, Pop-in Welcome.
 
-## 🛍️ SMCP Luxury Brands (CWF Audit)
+## 🛍️ CWF Luxury Brands (CWF Audit)
 Claudie Pierlot, Maje, Zadig & Voltaire, Billieblush, Kids Around. Tickets: `FRUS` / `CWFMT` / `FRCWB`.
 
 - **Adyen Payment Migration:** fatal payment-error fixes, pickup-point delivery, duplicate confirmation emails, PSP order/customer export & status, refund/return email corrections, PaymentMethod tag.
